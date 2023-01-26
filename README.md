@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I am a frontend developer who loves building projects with react.
+I am a frontend developer who loves building projects with react and other software technologies.
 
 <!-- * 🌍  I'm based in Lagos, Nigeria -->
 * ✉️  You can contact me at [okechukwuemmah@gmail.com](mailto:okechukwuemmah@gmail.com)
